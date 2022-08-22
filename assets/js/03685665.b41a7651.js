@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[4672],{4279:e=>{e.exports=JSON.parse('{"label":"docker","permalink":"/docs/tags/docker","allTagsPath":"/docs/tags","count":1,"items":[{"id":"install/install-docker","title":"Docker","description":"Coordimap docker images can be found in our DockerHub account.","permalink":"/docs/install/docker"}]}')}}]);
